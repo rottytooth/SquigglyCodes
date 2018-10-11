@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NinetyNineBottles/obj
+/NinetyNineBottles/bin/Debug/netcoreapp2.1
+/.vs/SquigglyCodes/v15
+/.vs
